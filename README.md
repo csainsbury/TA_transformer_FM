@@ -1,9 +1,7 @@
 ### tawt_v2 and cpu
 #### summary of aims
 
-**Introduction**
-
-Designing a transformer-based, time-aware, self-supervised foundation model for medical EHR data is a complex task, but with careful planning and modular development, it's achievable. Below is a detailed step-by-step guide to help you develop this model, focusing initially on EHR data and structuring it to allow for the future inclusion of image data.
+Devlopment of  a transformer-based, time-aware, self-supervised foundation model for medical EHR data with a structure allowing for the future inclusion of image data.
 
 ---
 
